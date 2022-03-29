@@ -1,0 +1,31 @@
+body {
+    background-color: #000000;
+}
+
+.post {
+    background-color: #ffffff;
+    height: 500px;
+    margin: 30px auto;
+    width: 400px;
+}
+
+.post .post-header {
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.post .post-header .fa-html5 {
+    font-size: 25px;
+    margin: 5px;
+}
+
+.post .post-header p {
+    font-size: 14px;
+    width: 100%;
+}
+
+.post .post-header .fa-ellipsis-vertical {
+    font-size: 25px;
+    margin: 5px;
+}
